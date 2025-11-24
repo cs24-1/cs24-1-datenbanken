@@ -2,7 +2,7 @@
 
 > Zur Vereinfachung und Beschleunigung der Übung nutzen wir ein Online-Datenbank-Tool.
 
-https://sqltraining.itsnameless.de
+*Dieses Tool ist nicht mehr über meinen Server verfügbar, kann aber über [MyWebSQL](https://github.com/Samnan/MyWebSQL) selbst gehostet werden.*
 
 ---
 
